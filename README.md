@@ -4,7 +4,7 @@
 
 ### Setup
 
-* The following instructions were last tested using Windows 10, MATLAB 2020 and ADAMS 2020 on October 24th, 2020.
+* The following instructions were last tested using Windows 10, MATLAB 2020 and ADAMS 2019b on October 24th, 2020.
 * Clone the repository of the project in a desired folder from here: https://github.com/imstevenpm/Lee_Palma-AMORO_Lab4
 * Open MATLAB and Simulink and be sure to change the working directory to the folder that has the files cloned.
 
