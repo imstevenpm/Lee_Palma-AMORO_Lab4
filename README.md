@@ -32,7 +32,8 @@
 
 ### Singularity Crossing
 
-* To be done
+*  For testing the Singularity Crossing using MATLAB, run the MATLAB file called "singularity_crossing" directly from the command window and watch the simulation in the figure generated.
+* To test the Singularity Crossing using ADAMS, open the file called "Biglide_singularity.bin" in ADAMS. Simply run the simulation in ADAMS by pressing the play button. Ensure that the time of the simulation is 6 seconds and the step size is 3001. Watch the interactive simulation as it happens.
 
 ## Authors
 * Justin Lee: leej1996@gmail.com
