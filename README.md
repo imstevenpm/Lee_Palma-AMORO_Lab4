@@ -2,7 +2,7 @@
 
 ## Report
 
-The lab report called "Lab4_Report_Lee_Palma.pdf" can be found in the following directory src->Report.
+The lab report called "Lab4_Report_Lee_Palma.pdf" can be found in the following directory "src/Report".
 
 ## Explanation steps for using the simulation
 
